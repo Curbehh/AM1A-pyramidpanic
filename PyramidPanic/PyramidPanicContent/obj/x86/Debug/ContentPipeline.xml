@@ -7,10 +7,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic\PyramidPanic\PyramidPanicContent\</RootDirectory>
-      <LoggerRootDirectory>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic\PyramidPanic\PyramidPanic\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic\PyramidPanic\PyramidPanicContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v2\PyramidPanic\PyramidPanicContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v2\PyramidPanic\PyramidPanic\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v2\PyramidPanic\PyramidPanicContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v2\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
