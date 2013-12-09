@@ -19,6 +19,60 @@
       <Output>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Title.xnb</Output>
       <Time>2013-12-09T09:09:58.1367229+01:00</Time>
     </Item>
+    <Item>
+      <Source>StartScene\Button_help.png</Source>
+      <Name>StartScene\Button_help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_help.xnb</Output>
+      <Time>2013-12-09T10:46:16.8646094+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StartScene\Button_leveleditor.png</Source>
+      <Name>StartScene\Button_leveleditor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_leveleditor.xnb</Output>
+      <Time>2013-12-09T10:46:23.4646186+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StartScene\Button_load.png</Source>
+      <Name>StartScene\Button_load</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_load.xnb</Output>
+      <Time>2013-12-09T10:46:29.5006425+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StartScene\Button_quit.png</Source>
+      <Name>StartScene\Button_quit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_quit.xnb</Output>
+      <Time>2013-12-09T10:46:32.1506462+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StartScene\Button_scores.png</Source>
+      <Name>StartScene\Button_scores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_scores.xnb</Output>
+      <Time>2013-12-09T10:46:34.5196651+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StartScene\Button_start.png</Source>
+      <Name>StartScene\Button_start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_start.xnb</Output>
+      <Time>2013-12-09T10:46:37.9266842+01:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

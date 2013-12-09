@@ -18,3 +18,9 @@ D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\Pyr
 D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.pdb
 D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Background.xnb
 D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Title.xnb
+D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_help.xnb
+D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_leveleditor.xnb
+D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_load.xnb
+D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_quit.xnb
+D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_scores.xnb
+D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_start.xnb
