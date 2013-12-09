@@ -17,7 +17,12 @@ namespace PyramidPanic
     {
 
         //Fields
+
+        //Maakt een variabele ( Reference ) aan van het type Texture2D met de naam texture
         private Texture2D texture;
+
+        //Maakt een variabele ( Reference ) aan van het type Color met de naam color.
+        private Color color = Color.White;
 
         //Maakt een rectangle voor het detecteren van collisions.
         private Rectangle rectangle;
@@ -25,7 +30,18 @@ namespace PyramidPanic
         //Maakt een variabele aan om de game instantie in op te slaan.
         private PyramidPanic game;
 
+        //Properies
 
+        #region Properties
+
+        //Maakt een property voor het color field.
+        public Color Color
+        {
+            get { return this.color; }
+            set { this.color = value; }
+        }
+
+        #endregion 
 
         //Constructor
         public Image(PyramidPanic game, string pathNameAsset, Vector2 position)
@@ -43,7 +59,7 @@ namespace PyramidPanic
         //Draw
         public void Draw(GameTime gameTime)
         {
-            this.game.SpriteBatch.Draw(this.texture, this.rectangle, Color.White);
+            this.game.SpriteBatch.Draw(this.texture, this.rectangle, this.color);
         }
 
 
