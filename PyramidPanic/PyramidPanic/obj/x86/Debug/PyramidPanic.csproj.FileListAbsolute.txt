@@ -10,3 +10,11 @@ D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v2\PyramidPanic\Pyr
 D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v2\PyramidPanic\PyramidPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v2\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.exe
 D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v2\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.pdb
+D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\PyramidPanic.exe
+D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\PyramidPanic.pdb
+D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.exe
+D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.pdb
+D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Background.xnb
+D:\Documents\Visual Studio 2010\Projects\Blok 2\PyramidPanic v3\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Title.xnb

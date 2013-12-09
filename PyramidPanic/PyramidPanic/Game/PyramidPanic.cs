@@ -64,7 +64,14 @@ namespace PyramidPanic
         public GameOverScene GameoverScene
         {
             get { return this.gameOverScene; }
-        } 
+        }
+
+        //Maakt het field SpriteBatch besschikbaar buiten de class d.m.v een property SpriteBatch.
+        public SpriteBatch SpriteBatch
+        {
+            get { return this.spriteBatch; }
+        }
+
         #endregion
 
         //Dit is de constructor. Heeft altijd dezelfde naam als de class.
